@@ -15,7 +15,7 @@ The Laravel backend for the **E-Commerce Next.js + Laravel** application. This r
 | PHPUnit | Automated testing |
 | Laravel Pint | Code formatting |
 
-The project explicitly includes Laravel Sanctum and `predis/predis`, and its Composer scripts include local development and testing workflows. fileciteturn80file0
+The project explicitly includes Laravel Sanctum and `predis/predis`, and its Composer scripts include local development and testing workflows.
 
 ## Responsibilities
 
@@ -109,7 +109,7 @@ php artisan test
 ./vendor/bin/pint
 ```
 
-The Composer configuration also provides a `composer dev` workflow and a test script. fileciteturn80file0
+The Composer configuration also provides a `composer dev` workflow and a test script.
 
 ## Frontend
 
@@ -132,3 +132,5 @@ The Next.js application consumes this backend's API while handling the web UI an
 ## License
 
 This project is licensed under the license included in the repository.
+
+<!-- README refresh: documentation-only change. -->
